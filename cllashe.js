@@ -1,0 +1,2 @@
+''limpar''
+'pegar'
